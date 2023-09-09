@@ -1,5 +1,12 @@
 var relearn_search_index = [
   {
+    "content": "test.\n",
+    "description": "",
+    "tags": null,
+    "title": "Basics",
+    "uri": "/basics/index.html"
+  },
+  {
     "content": "",
     "description": "",
     "tags": null,
